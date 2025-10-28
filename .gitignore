@@ -1,0 +1,2 @@
+# **/ (aqui se agraga el nombre de los archivos que se quiere ignorar en todos los directorios)
+# *.log (ignora todos los archivos con extensión .log)
